@@ -38,7 +38,7 @@ Upgrading your personal account does not affect any organizations you may manage
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-1. Next to "Current plan", click **Upgrade**.
+1. Next to "Current GitHub base plan", click **Upgrade to GitHub Pro**.
 1. Under "Pro" on the "Compare plans" page, click **Upgrade to Pro**.
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.show-plan-details %}
