@@ -41,7 +41,7 @@ features:
 languages:
   C:
     copilot: 'supported'
-    codeNavigation: 'not-supported'
+    codeNavigation: 'supported'
     codeScanning: 'supported'
     depGraph: 'not-supported'
     depUpdates: 'not-supported'
@@ -49,7 +49,7 @@ languages:
     packages: 'not-supported'
   C++:
     copilot: 'supported'
-    codeNavigation: 'not-supported'
+    codeNavigation: 'supported'
     codeScanning: 'supported'
     depGraph: 'not-supported'
     depUpdates: 'not-supported'
